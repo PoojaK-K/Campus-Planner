@@ -8,7 +8,7 @@ This system provides customized recommendations based on the user's:
 - Stream of Study
 - Year of Study
 - Area of Interest
-- Budget Range
+- Budget Range of Students
 - Diet Preferences
 
 It also includes a structured feedback system with 5-star ratings to evaluate user satisfaction.
